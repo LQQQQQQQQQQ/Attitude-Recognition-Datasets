@@ -3,6 +3,9 @@
  
  这里的 output1 是使用 Simple_HRNet-master 得到的。其中，frame_output 是每一帧的图片，view_output 是加上关键点和骨干可视化后的效果，然后 output.csv 是关键点数据，但目前数据有点对不上。
  
+ ## 目前工作进度：
+   1.simple-HRNet-master 和 Ultralight-SimplePose 都已经调通，并且修改代码输出可视化效果和关键点数据
+ 
  ## 目前的主要问题就是：
  图片上的人物之间很多有重叠，不够简洁，比较难提取出想要的某个人的姿态关键点。所有就没法做出比较的训练集。
  
