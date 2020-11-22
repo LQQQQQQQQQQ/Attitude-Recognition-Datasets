@@ -13,3 +13,6 @@
    1.在 coco 数据集里挑选一些简洁一点的人物侧面图片作为一部分训练集
    2.将某些原本的深蹲，仰卧起坐等图片，选取一些人比较少的进行截取
    3.调高 yolov3 的置信度（目前不太有用，因为只要程序检测到某个人物框，该人物框的置信度就会比较高（95%左右），即使这个人物并不是我们需要的）
+
+coco 数据集里较好的侧面图：
+![image](https://github.com/LQQQQQQQQQQ/Attitude-Recognition-Datasets/blob/main/data/2.jpg)
