@@ -15,10 +15,13 @@
    3.调高 yolov3 的置信度（目前不太有用，因为只要程序检测到某个人物框，该人物框的置信度就会比较高（95%左右），即使这个人物并不是我们需要的）
 
 coco 数据集里较好的侧面图：
+
 ![image](https://github.com/LQQQQQQQQQQ/Attitude-Recognition-Datasets/blob/main/data/2.jpg)
 
 simple-HRNet-master 测试效果：
+
 ![image](https://github.com/LQQQQQQQQQQ/Attitude-Recognition-Datasets/blob/main/data/out.jpg)
 
 Ultralight-SimplePose 测试效果：
+
 ![image](https://github.com/LQQQQQQQQQQ/Attitude-Recognition-Datasets/blob/main/data/myplot.png)
