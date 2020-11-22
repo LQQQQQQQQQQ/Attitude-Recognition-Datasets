@@ -16,3 +16,9 @@
 
 coco 数据集里较好的侧面图：
 ![image](https://github.com/LQQQQQQQQQQ/Attitude-Recognition-Datasets/blob/main/data/2.jpg)
+
+simple-HRNet-master 测试效果：
+![image](https://github.com/LQQQQQQQQQQ/Attitude-Recognition-Datasets/blob/main/data/out.jpg)
+
+Ultralight-SimplePose 测试效果：
+![image](https://github.com/LQQQQQQQQQQ/Attitude-Recognition-Datasets/blob/main/data/myplot.png)
