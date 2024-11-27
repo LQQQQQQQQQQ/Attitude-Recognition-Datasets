@@ -1,0 +1,8 @@
+1 视频测试并保存
+python scripts/live-demo.py --filename test1.mp4 --save_video
+
+使用我自己定义的批量测试文件：
+python vedio_batch_test.py --filename test1.mp4 --save_video
+
+2 抽取关键点
+python scripts/extract-keypoints.py --filename  test1.mp4
